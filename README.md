@@ -7,4 +7,4 @@ Eigene [ToDo Liste](https://github.com/ManuelGotzen/musikdenker-todo/issues ), [
 Neu auf GitHub?
 ---------------
 
-Erstelle ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/new ) an. 
+Erstelle ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/new ) an. Fehlt eine Ettiketierung dann kann ein [neues Label](https://github.com/ManuelGotzen/musikdenker-todo/labels ) angelegt werden.
