@@ -13,7 +13,6 @@ Requests
 Lege ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/new ) an. Fehlt eine Ettiketierung dann kann ein [neues Label](https://github.com/ManuelGotzen/musikdenker-todo/labels ) angelegt werden.
 
 
-wiki)**  
   
   
 ###### <sub>**Help** / Be Social</sub>
