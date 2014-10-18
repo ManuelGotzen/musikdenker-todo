@@ -16,7 +16,7 @@ Lege ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/n
 =====
 <sub>
 &copy; 2014, [Owner][gitHub]  
-Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence. Company logos in icons are copyright of their respective owners.  
+Distributed by Manuel Gotzen under the [CC][CC] [CC BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence. Company logos in icons are copyright of their respective owners.  
 </sub>
 
 
@@ -30,3 +30,5 @@ Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.
 
 [gitHub]: http://bit.ly/gitHub-musikdenker  "Organization"
 [gitHub]: http://bit.ly/gitHub-gee  "Owner"
+[gitHub]: https://github.com/ManuelGotzen/musikdenker-todo/settings/collaboration "Collaborteur"
+
