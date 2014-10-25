@@ -18,6 +18,7 @@ Lege ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/n
 ###### <sub>**Help** / Be Social</sub>
   
 [GitHub Help](http://help.github.com "GitHub")  
+[GitHub Try Code School](https://try.github.io "try Git")  
   
 Discover interesting projects from across GitHub in the Explore and [Trending](https://github.com/trending) sections. You can then star projects that you find interesting and want to come back to later—just visit your [Stars](https://github.com/stars) page to see all your starred projects.
   
