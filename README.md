@@ -21,7 +21,17 @@ Lege ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/n
 [GitHub Try Code School](https://try.github.io "try Git")  
   
 Discover interesting projects from across GitHub in the Explore and [Trending](https://github.com/trending) sections. You can then star projects that you find interesting and want to come back to later—just visit your [Stars](https://github.com/stars) page to see all your starred projects.
+
+
+### Getting Start for a iOS SDK
+
+# Step 1: Prerequisites
+
+* OS X is required for all iOS development.  
+* You need [XCode](https://developer.apple.com/xcode/ ). If you don't have it, you can get it from the App Store.
+* Optionally, you may want to use [Git](http://git-scm.com ).
   
+
   
 ###### <sub>**Syntax** / MarkDown</sub>
   
