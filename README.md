@@ -18,7 +18,7 @@ Lege ein [neues Issue](https://github.com/ManuelGotzen/musikdenker-todo/issues/n
 ###### <sub>**Help** / Be Social</sub>
   
 [GitHub Help](http://help.github.com "GitHub")  
-[GitHub Try Code School](https://try.github.io "try Git")  
+
   
 Discover interesting projects from across GitHub in the Explore and [Trending](https://github.com/trending) sections. You can then star projects that you find interesting and want to come back to later—just visit your [Stars](https://github.com/stars) page to see all your starred projects.
 
@@ -29,7 +29,7 @@ Discover interesting projects from across GitHub in the Explore and [Trending](h
 
 * OS X is required for all iOS development.  
 * You need [XCode](https://developer.apple.com/xcode/ ). If you don't have it, you can get it from the App Store.
-* Optionally, you may want to use [Git](http://git-scm.com ).
+* Optionally, you may want to use [Git](http://git-scm.com ). Code School learning use [try Git](https://try.github.io "try Git")  
   
 
   
